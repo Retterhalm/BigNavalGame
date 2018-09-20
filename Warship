@@ -32,5 +32,13 @@ public class Warship extends ship{
     double ramArmour;
     String ramArmourType;
     
+    /*
+    Armament description
+    */
+    int mainGunsQty;
+    int secondaryGunQty;
+    int antiTBGunsQty;
+    int machineGunsQty;
+    int torpedoTubesQty;
     
 }
