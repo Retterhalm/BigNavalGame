@@ -10,8 +10,10 @@ public class Warship extends ship{
     String upperBeltArmourType;
     double mainBeltEndsArmour;
     String mainBeltEndsArmourType;
-    double bulkHeadsArmour;
-    String bulkHeadsArmourType;
+    double bulkheadsArmour;
+    String bulkheadsArmourType;
+    double transverseBulkheadsArmour;
+    String transverseBulkheadsArmourType;
     double casematteArmour;
     String casematteArmourType;
     double mainDeckArmour;
