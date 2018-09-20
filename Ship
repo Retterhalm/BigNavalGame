@@ -33,6 +33,8 @@ public class Ship
 	int boilersQty;
 	int shaftsQty;
 	int propellersQty;
+	double coalBunkersCap;
+	double waterTanksCap;
 	double propuslionPower;
 	int anchorsQty;
 	int bowAnchorsQty;
@@ -53,6 +55,8 @@ public class Ship
 	double draughtAftCurrent;
 	int complementCurrent;
 	double propulsionPowerCurrent;
+	double coalAmountCurrent;
+	double waterAmountCurrent;
 	double list;
 	double heel;
 	double different;
