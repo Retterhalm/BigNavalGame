@@ -1,0 +1,36 @@
+public class Warship extends ship{
+    /*
+    Armour description
+    */
+    double citadelArmour;
+    String citadelArmourType;
+    double mainBeltArmour;
+    String mainBeltArmourType;
+    double upperBeltArmour;
+    String upperBeltArmourType;
+    double mainBeltEndsArmour;
+    String mainBeltEndsArmourType;
+    double bulkHeadsArmour;
+    String bulkHeadsArmourType;
+    double casematteArmour;
+    String casematteArmourType;
+    double mainDeckArmour;
+    String mainDeckArmourType
+    double carapaceArmour;
+    String carapaceArmourType;
+    double deckSlopesArmour;
+    String deckSlopesArmourType;
+    double conningTWRArmour;
+    String conningTWRArmourType;
+    double barbetteArmour;
+    String barbetteArmourType;
+    double elevatorsArmour;
+    String elevatorsArmourType;
+    double magazineArmour;
+    String magazineArmourType;
+    boolean ram;
+    double ramArmour;
+    String ramArmourType;
+    
+    
+}
