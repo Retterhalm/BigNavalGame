@@ -1,0 +1,31 @@
+public class Ship
+{
+	// Basic parameters and measurements
+	String name;
+	String port;
+	String flag;
+	double lengthOA; // Length overall
+	double lengthPP; // Length between perpendiculars
+	double beam; // Width
+	double draughtGeneral;
+	double draughtBowGeneral;
+	double draughtAftGeneral;
+	double displacement;
+	int complementGeneral;
+	int complementMax;
+	int complementMin;
+	
+	/*
+	    Here placed parameters changes
+	*/
+	double draughtCurrent;
+	double draughtBowCurrent;
+	double draughtAftCurrent;
+	int complementCurrent;
+	double list;
+	double heel;
+	double different;
+	double waterIntake;
+	double waterOut;
+	
+}
