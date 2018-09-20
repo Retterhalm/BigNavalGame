@@ -31,7 +31,10 @@ public class Ship
 	int engineRoomsQty;
 	int boilerRoomsQty;
 	int enginesQty;
+	String enginesType;
+	int engineCylsQty;
 	int boilersQty;
+	String boilersType;
 	int shaftsQty;
 	int propellersQty;
 	double coalBunkersCap;
