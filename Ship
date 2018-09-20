@@ -37,10 +37,13 @@ public class Ship
 	String boilersType;
 	int shaftsQty;
 	int propellersQty;
-	double enginesTotalPwr;
+	double propuslionPowerNormal;
+	double propulsionPowerForced;
+	double coalComsumpEconomic;
+	double coalConsumpForced;
+	double coalConsumpNormal;
 	double coalBunkersCap;
 	double waterTanksCap;
-	double propuslionPower;
 	int anchorsQty;
 	int bowAnchorsQty;
 	String bowAnchorsType;
