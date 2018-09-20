@@ -37,6 +37,7 @@ public class Ship
 	String boilersType;
 	int shaftsQty;
 	int propellersQty;
+	int propellersBladesQty;
 	int propellersRPMNormal;
 	int propellersRPMForced;
 	double propuslionPowerNormal;
