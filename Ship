@@ -14,6 +14,17 @@ public class Ship
 	int complementGeneral;
 	int complementMax;
 	int complementMin;
+	int numberOfMasts;
+	boolean foreMast;
+	boolean mainMast;
+	boolean mizzenMast;
+	int numberOfEngineRooms;
+	int numberOfBoilerRooms;
+	int numberOfEngines;
+	int numberOfBoilers;
+	int numberOfShafts;
+	int numberOfPropellers;
+	
 	
 	/*
 	    Here placed parameters changes
