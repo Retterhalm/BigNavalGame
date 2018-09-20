@@ -4,26 +4,45 @@ public class Ship
 	String name;
 	String port;
 	String flag;
+	String hullMaterial;
+	String hullColor;
+	int hullColorHex;
+	String bridgeColor;
+	int bridgeColorHex;
+	String funnelColor;
+	int funnelColorHex;
 	double lengthOA; // Length overall
 	double lengthPP; // Length between perpendiculars
 	double beam; // Width
 	double draughtGeneral;
 	double draughtBowGeneral;
 	double draughtAftGeneral;
+	double freeboard;
 	double displacement;
+	int decksQty;
 	int complementGeneral;
 	int complementMax;
 	int complementMin;
-	int numberOfMasts;
+	int mastsQty;
 	boolean foreMast;
 	boolean mainMast;
 	boolean mizzenMast;
-	int numberOfEngineRooms;
-	int numberOfBoilerRooms;
-	int numberOfEngines;
-	int numberOfBoilers;
-	int numberOfShafts;
-	int numberOfPropellers;
+	int engineRoomsQty;
+	int boilerRoomsQty;
+	int enginesQty;
+	int boilersQty;
+	int shaftsQty;
+	int propellersQty;
+	double propuslionPower;
+	int anchorsQty;
+	int bowAnchorsQty;
+	String bowAnchorsType;
+	int aftAnchorsQty;
+	String aftAnchorsType;
+	int spareAnchorsQty;
+	String spareAnchorsType;
+	int boatsQty;
+	
 	
 	
 	/*
@@ -33,10 +52,17 @@ public class Ship
 	double draughtBowCurrent;
 	double draughtAftCurrent;
 	int complementCurrent;
+	double propulsionPowerCurrent;
 	double list;
 	double heel;
 	double different;
 	double waterIntake;
 	double waterOut;
+	double speed;
+	double freeboardCurrent;
+	
+	/*
+	    Here placed methods
+	*/
 	
 }
