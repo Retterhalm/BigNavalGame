@@ -37,6 +37,7 @@ public class Ship
 	String boilersType;
 	int shaftsQty;
 	int propellersQty;
+	double enginesTotalPwr;
 	double coalBunkersCap;
 	double waterTanksCap;
 	double propuslionPower;
