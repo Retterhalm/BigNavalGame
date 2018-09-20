@@ -1,0 +1,50 @@
+/*
+Austrian Battleship Kronprinz Erzherzog Rudolf.
+*/
+public class AusKronPrnzErzHerzRud extends Warship{
+  
+      name = "Kronprinz Erzherzog Rudolf";
+      yearBuilt = 1887;
+      flag = " Ausrian Navy";
+	     hullMaterial;
+	 hullColor;
+	 hullColorHex;
+	 bridgeColor;
+	 bridgeColorHex;
+	 funnelColor;
+	 funnelColorHex;
+	 lengthOA; // Length overall
+	 lengthPP; // Length between perpendiculars
+   beam; // Width
+	 draughtGeneral;
+   draughtBowGeneral;
+	 draughtAftGeneral;
+	 freeboard;
+	 displacement;
+   decksQty;
+	 complementGeneral;
+	 complementMax;
+	 complementMin;
+   mastsQty;
+	 foreMast;
+	 mainMast;
+	 mizzenMast;
+	 engineRoomsQty;
+	 boilerRoomsQty;
+	 enginesQty;
+   boilersQty;
+	 shaftsQty;
+	 propellersQty;
+   coalBunkersCap;
+	 waterTanksCap;
+	 propuslionPower;
+	 anchorsQty;
+	 bowAnchorsQty;
+	 bowAnchorsType;
+   aftAnchorsQty;
+	 aftAnchorsType;
+	 spareAnchorsQty;
+	 spareAnchorsType;
+   boatsQty;
+
+}
