@@ -6,45 +6,48 @@ public class AusKronPrnzErzHerzRud extends Warship{
       name = "Kronprinz Erzherzog Rudolf";
       yearBuilt = 1887;
       flag = " Ausrian Navy";
-	     hullMaterial;
-	 hullColor;
-	 hullColorHex;
-	 bridgeColor;
-	 bridgeColorHex;
-	 funnelColor;
-	 funnelColorHex;
-	 lengthOA; // Length overall
-	 lengthPP; // Length between perpendiculars
-   beam; // Width
-	 draughtGeneral;
-   draughtBowGeneral;
-	 draughtAftGeneral;
-	 freeboard;
-	 displacement;
-   decksQty;
-	 complementGeneral;
-	 complementMax;
-	 complementMin;
-   mastsQty;
-	 foreMast;
-	 mainMast;
-	 mizzenMast;
-	 engineRoomsQty;
-	 boilerRoomsQty;
-	 enginesQty;
-   boilersQty;
-	 shaftsQty;
-	 propellersQty;
-   coalBunkersCap;
-	 waterTanksCap;
-	 propuslionPower;
-	 anchorsQty;
-	 bowAnchorsQty;
-	 bowAnchorsType;
-   aftAnchorsQty;
-	 aftAnchorsType;
-	 spareAnchorsQty;
-	 spareAnchorsType;
-   boatsQty;
+      hullMaterial = "Steel;
+      hullColor;
+      hullColorHex;
+      bridgeColor;
+      bridgeColorHex;
+      funnelColor;
+      funnelColorHex;
+      lengthOA = 97.6; // Length overall
+      lengthPP = 93.98; // Length between perpendiculars
+      beam = 19.27; // Width
+      draughtGeneral = 7.39;
+      draughtBowGeneral;
+      draughtAftGeneral;
+      freeboard;
+      displacement = 6829; // metric tons
+      decksQty;
+      complementGeneral = 447;
+      complementMax = 450;
+      complementMin;
+      mastsQty = 1;
+      foreMast = false;
+      mainMast = true;
+      mizzenMast = false;
+      engineRoomsQty;
+      boilerRoomsQty;
+      enginesQty = 2;
+      enginesType =" Verticale Triple-expansion"
+      engineCylsQty = 2;
+      boilersQty = 10;
+      boilerType = "Fire-tube"
+      shaftsQty = 2;
+      propellersQty = 2;
+      coalBunkersCap;
+      waterTanksCap;
+      propuslionPower;
+      anchorsQty;
+      bowAnchorsQty;
+      bowAnchorsType;
+      aftAnchorsQty;
+      aftAnchorsType;
+      spareAnchorsQty;
+      spareAnchorsType;
+      boatsQty;
 
 }
