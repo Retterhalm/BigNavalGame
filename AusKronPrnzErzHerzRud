@@ -6,7 +6,7 @@ public class AusKronPrnzErzHerzRud extends Warship{
       name = "Kronprinz Erzherzog Rudolf";
       yearBuilt = 1887;
       flag = " Ausrian Navy";
-      hullMaterial = "Steel;
+      hullMaterial = "Steel";
       hullColor;
       hullColorHex;
       bridgeColor;
