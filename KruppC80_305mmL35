@@ -1,1 +1,21 @@
-
+ double caliber = 305; // Millimeters
+ String manufacturer = "Alfred Krupp"
+ String mountType = "Sliding by Armstrong, Mitchell & Co"
+ double barrelWeight = 48500; // Kilograms
+ double shellWeight = 455; // Kilograms
+ double shellVelocityInit = 530; // Meters per second
+ doulble rangeMax = 16000; // Meters
+ double elevationMax; // Degrees
+ double range; //Meters
+ double elevation; // Degrees
+ double chargeWeight = 141; // Kilograms
+ String chargeType = "Brown prismatic powder";
+ double reloadTimeNormal;
+ double reloadTimeMin;
+ double reloadTimeCurrent;
+ int shellsQty;
+ int chargeQty;
+ 
+ if (elevation == 15){
+  range = 9300; // Meters
+  }
