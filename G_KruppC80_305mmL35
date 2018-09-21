@@ -1,3 +1,5 @@
+ public class G_KruppC80_305mmL35{
+ int guncrew;
  double caliber = 305; // Millimeters
  String manufacturer = "Alfred Krupp"
  String mountType = "Sliding by Armstrong, Mitchell & Co"
@@ -19,3 +21,20 @@
  if (elevation == 15){
   range = 9300; // Meters
   }
+  /*
+  Methods
+  */
+  
+  public void aim(){
+  
+  }
+  
+  public void fire(){
+  
+  }
+  
+  public void reload(){
+  
+  }
+  
+}
