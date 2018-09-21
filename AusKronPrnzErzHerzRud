@@ -42,9 +42,9 @@ public class AusKronPrnzErzHerzRud extends Warship{
       propellersRPMNormal = 80;
       propellersRPMForced = 90;
       double propuslionPowerNormal = 6500; // Horse Power
-	    double propulsionPowerForced = 7500; // Horse Power
-	    double coalComsumpEconomic;
-	    double coalConsumpForced;
+      double propulsionPowerForced = 7500; // Horse Power
+      double coalComsumpEconomic; 
+      double coalConsumpForced;
       double coalConsumpNormal
       coalBunkersCap;
       waterTanksCap;
