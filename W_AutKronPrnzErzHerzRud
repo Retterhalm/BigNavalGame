@@ -1,7 +1,7 @@
 /*
 Austrian Battleship Kronprinz Erzherzog Rudolf.
 */
-public class AusKronPrnzErzHerzRud extends Warship{
+public class W_AutKronPrnzErzHerzRud extends Warship{
   
       name = "Kronprinz Erzherzog Rudolf";
       yearBuilt = 1887;
